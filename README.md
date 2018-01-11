@@ -1,2 +1,2 @@
 # QHYCCD-SoftWare
-QHYCCD software for Linux
+QHYCCD EZCAP for Linux
