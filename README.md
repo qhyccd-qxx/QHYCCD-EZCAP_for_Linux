@@ -1,2 +1,2 @@
 # QHYCCD-SoftWare
-QHYCCD software for Linux&amp
+QHYCCD software for Linux
